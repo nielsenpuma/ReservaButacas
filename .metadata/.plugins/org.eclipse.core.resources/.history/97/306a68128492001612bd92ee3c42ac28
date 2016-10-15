@@ -5,8 +5,4 @@ public class Empleado {
 	private String nombres, apePaterno, apeMaterno;
 	private int tipo;
 	private String usuario, contraseña;
-	public Empleado() {
-		
-	}
-	
 }
